@@ -2,4 +2,4 @@
 
 npm install
 project-client:
-https://github.com/2024-Winter-ITE-5425-IRB/angular-project-client-team-alpha/tree/Ursulla2
+https://github.com/2024-Winter-ITE-5425-IRB/angular-project-client-Ursulla
